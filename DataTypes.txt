@@ -1,0 +1,41 @@
+There are total 8 data types in js, they are:
+1. String
+2. Number
+3. Object
+4. Symbol
+5. Boolean
+6. Null
+7. Undefined
+8. BigInt
+
+1. String :
+    Strings are sequence of Characters. Can declare within single or double quotes
+    Ex: a = 'Lakshman'
+
+2. Number :
+    Js numbers are stored as floating numbers
+    Ex: a = 1.2
+        b = 1
+
+3. Object :
+    Js objects are declare within flower braces. It is a key valued pair
+    Ex: a = {key:value}
+
+4. Symbol :
+    You can use the JavaScript typeof operator to find the type of a JavaScript variable.
+
+5. Boolean :
+    Is a stored either true or false
+    Ex: b = true
+
+6. Null :
+    Is a null value
+    Ex: a = null
+
+7. Undefined:
+    In JavaScript, a variable without a value, has the value undefined. The type is also undefined.
+    Ex: var a;
+
+8. BigInt:
+    Stores the Big number upto 64 bits
+    Ex: a = BigInt('123456789012345678901234567890')
