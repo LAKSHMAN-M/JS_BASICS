@@ -1,0 +1,14 @@
+Three Variables available in Js:
+1. var
+2. let
+3. const
+
+1. var:
+    Scope: var is functional-scoped and available within the function it was declared or globally if declared outside of any function
+
+2. let:
+    It is a available in local scope and can access after the declaration
+
+3. const:
+    It is a available in local scope and can access after the declaration
+    once it is assigned then cant able to change the value 
